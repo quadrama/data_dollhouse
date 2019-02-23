@@ -1,4 +1,4 @@
 corpus,drama,begin.Act,end.Act,Number.Act,begin.Scene,end.Scene,Number.Scene
-"“dollhouse”",2,5,56643,0,5,56643,0
-"“dollhouse”",2,56651,99742,0,56651,99742,0
-"“dollhouse”",2,99750,143616,0,99750,143616,0
+dollhouse,2,5,56643,0,5,56643,0
+dollhouse,2,56651,99742,0,56651,99742,0
+dollhouse,2,99750,143616,0,99750,143616,0
